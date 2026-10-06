@@ -36,6 +36,9 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "моё первое Git-приложение",
         modifier = modifier
     )
+    Text(
+        text = "Практическая работа №3"
+    )
 }
 
 @Preview(showBackground = true)
