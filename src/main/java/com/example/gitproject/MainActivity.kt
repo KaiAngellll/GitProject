@@ -40,7 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "Практическая работа №3"
     )
     Text(
-        text = "Работа с системой Git"
+        text = "Работа с системой контроля версий Git"
     )
 }
 
